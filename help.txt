@@ -1,0 +1,1 @@
+cargo new <program> #creates new program
